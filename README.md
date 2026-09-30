@@ -73,4 +73,4 @@ Open to **full-stack developer, AI engineer, and backend / ERP** roles — plus 
 - 💼 LinkedIn: [linkedin.com/in/hamid-khan-dev07](https://www.linkedin.com/in/hamid-khan-dev07)
 - 🐙 GitHub: [@hamidkhan069731-blip](https://github.com/hamidkhan069731-blip)
 
-*All four projects above are private repos — I'm happy to grant access on request.*
+*All four projects above are open-source — click any repo to browse the full code. A live portfolio with write-ups is at [hamidkhan069731-blip.github.io](https://hamidkhan069731-blip.github.io/).*

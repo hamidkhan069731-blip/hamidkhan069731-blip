@@ -93,4 +93,4 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 
 ---
 
-*Projects listed above are in private repositories; access available on request.*
+*All projects listed above are open-source on GitHub ([github.com/hamidkhan069731-blip](https://github.com/hamidkhan069731-blip)), with a live portfolio at [hamidkhan069731-blip.github.io](https://hamidkhan069731-blip.github.io/).*
