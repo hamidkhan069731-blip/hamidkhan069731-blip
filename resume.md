@@ -64,7 +64,7 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 
 ## Experience
 
-**Freelance / Independent Projects** — *Self-employed* · *2024 – Present*
+**Independent Projects** — *Self-directed* · *2024 – Present*
 - Designed and delivered four full-stack systems end to end (database schema, REST API, auth and permissions, frontend, desktop packaging) spanning ERP, AI assistant, and AI voice-booking domains.
 - Built AI features using the Anthropic SDK with real tool-calling agent loops wired to production service functions, including graceful degradation when no API key is configured.
 - Implemented security baselines on every project: bcrypt hashing, JWT auth, role-based access control, zod validation, rate limiting, and row-level ownership enforced in SQL.
@@ -79,7 +79,9 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 
 ## Education
 
-**BS Computer Science** — *(Institution Name)* · *(Year – Year)*
+**BS Computer Science** — Superior University, Lahore
+
+*Currently in 2nd semester — expected graduation 2029*
 
 ---
 
