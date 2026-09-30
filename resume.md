@@ -1,14 +1,14 @@
 # Hamid Khan
 
-**Full-Stack Developer — ERP & Business Systems · AI Integration**
+**Full-Stack Developer & AI Engineer — ERP & Business Systems**
 
-[your.city], Pakistan · [your email] · [your phone] · [linkedin.com/in/your-handle] · [github.com/hamidkhan069731-blip]
+Lahore, Pakistan · hamidkhan069731@gmail.com · 0348 6311899 · [linkedin.com/in/hamid-khan-dev07](https://www.linkedin.com/in/hamid-khan-dev07) · [github.com/hamidkhan069731-blip](https://github.com/hamidkhan069731-blip)
 
 ---
 
 ## Summary
 
-Full-stack developer specialising in **business/ERP systems** and **practical AI integration**. I build complete products end to end — database schema, REST API, authentication and permissions, frontend, and desktop packaging — with a consistent rule: no fake functionality. If a feature exists, it is wired to a real implementation and real data.
+Full-stack developer and AI engineer specialising in **business/ERP systems** and **practical AI integration**. I build complete products end to end — database schema, REST API, authentication and permissions, frontend, and desktop packaging — with a consistent rule: no fake functionality. If a feature exists, it is wired to a real implementation and real data.
 
 Recent work spans four production-architected systems: an AI voice receptionist that books real appointments, a Windows desktop AI assistant with a governed tool-permission engine, a multi-role law firm ERP, and a university ERP with student/faculty/admin portals.
 
@@ -19,7 +19,7 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 - **Backend:** Node.js, Express, Python, FastAPI, REST API design, WebSockets
 - **Frontend:** JavaScript (ES6+), HTML5, CSS3, responsive UI
 - **Databases:** PostgreSQL, SQLite — schema design, migrations, seeded fixtures, parameterised query hygiene
-- **AI Integration:** Anthropic SDK, tool-calling / agent loops, OpenAI-compatible providers, system prompt & tool-schema design, graceful degradation without keys
+- **AI Engineering:** Anthropic SDK, tool-calling / agent loops, OpenAI-compatible providers, system prompt & tool-schema design, graceful degradation without keys
 - **Auth & Security:** JWT, bcrypt, role-based access control, zod input validation, rate limiting, helmet/CSP, SQL-injection prevention, row-level ownership enforced in SQL
 - **Desktop:** Electron packaging (Windows / macOS / Linux)
 - **Tooling:** Git & GitHub, npm, pip, Jest, environment & configuration management
@@ -64,17 +64,22 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 
 ## Experience
 
-*[Add your roles here — company, title, dates, and 2–3 bullet points of what you did. Most recent first.]*
+**Freelance / Independent Projects** — *Self-employed* · *2024 – Present*
+- Designed and delivered four full-stack systems end to end (database schema, REST API, auth and permissions, frontend, desktop packaging) spanning ERP, AI assistant, and AI voice-booking domains.
+- Built AI features using the Anthropic SDK with real tool-calling agent loops wired to production service functions, including graceful degradation when no API key is configured.
+- Implemented security baselines on every project: bcrypt hashing, JWT auth, role-based access control, zod validation, rate limiting, and row-level ownership enforced in SQL.
+
+*[Add any employer roles here — title, company, dates, and 2–3 bullet points. Most recent first.]*
 
 **Job Title** — Company Name · *Month YYYY – Month YYYY*
 - What you built or improved, and the measurable result (e.g. "cut X from Y to Z").
-- Who you worked with and what you owned.
+- What you worked on and who you owned.
 
 ---
 
 ## Education
 
-**Degree / Programme** — Institution Name · *Year – Year*
+**BS Computer Science** — *(Institution Name)* · *(Year – Year)*
 
 ---
 
@@ -82,7 +87,7 @@ Recent work spans four production-architected systems: an AI voice receptionist 
 
 - **Urdu** — Native
 - **English** — Professional working proficiency
-- *[Add any others]*
+- **Punjabi** — Conversational
 
 ---
 

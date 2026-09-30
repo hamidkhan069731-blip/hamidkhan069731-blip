@@ -1,10 +1,10 @@
 # Hi, I'm Hamid Khan 👋
 
-**Full-Stack Developer — ERP & Business Systems · AI Integration**
+**Full-Stack Developer & AI Engineer — ERP & Business Systems**
 
 I build complete business systems: real databases, real APIs, real auth — plus AI where it actually earns its place. My rule on every project: **no fake functionality.** If a button exists, it's wired to something real.
 
-📍 Pakistan · 📧 `[your email]` · 💼 [LinkedIn](https://linkedin.com/in/[your-handle])
+📍 Lahore, Pakistan · 📧 [hamidkhan069731@gmail.com](mailto:hamidkhan069731@gmail.com) · 📞 0348 6311899 · 💼 [LinkedIn](https://www.linkedin.com/in/hamid-khan-dev07)
 
 ---
 
@@ -48,7 +48,7 @@ Hardened properly: bcrypt hashing, fully parameterised queries, zod validation, 
 | **Backend** | Node.js, Express, Python, FastAPI, REST APIs, WebSockets |
 | **Frontend** | JavaScript (ES6+), HTML5, CSS3, responsive UI |
 | **Databases** | PostgreSQL, SQLite, schema design, migrations, parameterised queries |
-| **AI Integration** | Anthropic SDK, tool-calling / agent loops, OpenAI-compatible APIs, prompt + system design |
+| **AI Engineering** | Anthropic SDK, tool-calling / agent loops, OpenAI-compatible APIs, prompt + system design |
 | **Auth & Security** | JWT, bcrypt, role-based access control, zod validation, rate limiting, CSP, SQL-injection prevention |
 | **Desktop** | Electron app packaging (Windows/macOS/Linux) |
 | **Tooling** | Git & GitHub, npm, pip, Jest, environment/config management |
@@ -66,10 +66,11 @@ Hardened properly: bcrypt hashing, fully parameterised queries, zod validation, 
 
 ## 📫 Get in Touch
 
-Open to **full-stack / backend / ERP developer** roles and freelance work.
+Open to **full-stack developer, AI engineer, and backend / ERP** roles — plus freelance work.
 
-- 📧 Email: `[your email]`
-- 💼 LinkedIn: `[your LinkedIn URL]`
+- 📧 Email: [hamidkhan069731@gmail.com](mailto:hamidkhan069731@gmail.com)
+- 📞 Phone: 0348 6311899
+- 💼 LinkedIn: [linkedin.com/in/hamid-khan-dev07](https://www.linkedin.com/in/hamid-khan-dev07)
 - 🐙 GitHub: [@hamidkhan069731-blip](https://github.com/hamidkhan069731-blip)
 
 *All four projects above are private repos — I'm happy to grant access on request.*
